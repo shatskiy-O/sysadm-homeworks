@@ -66,6 +66,11 @@ https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагае
 * Измените видимость проекта на Public.
 * Нажмите «Сохранить изменения».
 
+
+## Ответ 1. Знакомимся с GitLab и Bitbucket 
+
+![alt text](https://github.com/shatskiy-O/sysadm-homeworks/blob/devsys10/02-git-02-base/img/1.png)
+
 ### Bitbucket* (задание со звёздочкой) 
 
 Это самостоятельное задание, его выполнение необязательно.
@@ -127,6 +132,13 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
     * в GitLab — https://gitlab.com/YOUR_ACCOUNT/devops-netology/-/tags;
     * в Bitbucket — список тегов расположен в выпадающем меню веток на отдельной вкладке. 
 
+## Ответ 2. Теги
+
+### Теги Githab
+![alt text](https://github.com/shatskiy-O/sysadm-homeworks/blob/devsys10/02-git-02-base/img/2.png)
+### Теги Gitlab
+![alt text](https://github.com/shatskiy-O/sysadm-homeworks/blob/devsys10/02-git-02-base/img/3.png)
+
 ## Задание 3. Ветки 
 
 Давайте посмотрим, как будет выглядеть история коммитов при создании веток. 
@@ -140,6 +152,15 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 1. Теперь измените содержание файла `README.md`, добавив новую строчку.
 1. Отправьте изменения в репозиторий и посмотрите, как изменится схема на странице https://github.com/YOUR_ACCOUNT/devops-netology/network 
 и как изменится вывод команды `git log`.
+
+## Ответ 3. Ветки
+
+![alt text](https://github.com/shatskiy-O/sysadm-homeworks/blob/devsys10/02-git-02-base/img/4.png)
+
+![alt text](https://github.com/shatskiy-O/sysadm-homeworks/blob/devsys10/02-git-02-base/img/5.png)
+
+![alt text](https://github.com/shatskiy-O/sysadm-homeworks/blob/devsys10/02-git-02-base/img/6.png)
+
 
 ## Задание 4. Упрощаем себе жизнь
 
@@ -158,7 +179,16 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 Если вверху экрана выбрать свою операционную систему, можно посмотреть горячие клавиши для работы с Git. 
 Подробней о визуальном интерфейсе мы расскажем на одной из следующих лекций.
 
-*В качестве результата работы по всем заданиям приложите ссылки на ваши репозитории в GitHub, GitLab и Bitbucket*.  
+*В качестве результата работы по всем заданиям приложите ссылки на ваши репозитории в GitHub, GitLab и Bitbucket*.
+
+## Ответ 4. Упрощаем себе жизнь
+
+Да, очень удобная фунцкия. Так уже привык работать в VSCode (но не с гитом пока). Есть ли там схожее решение?
+
+[GitHub Repository: devops-netology](https://github.com/shatskiy-O/devops-netology)
+
+[GitLab Repository: devops-netology](https://gitlab.com/shatskiy-O/devops-netology)
+
  
 ----
 
